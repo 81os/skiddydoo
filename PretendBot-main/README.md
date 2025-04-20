@@ -22,3 +22,5 @@ python3 -m pip install -r requirements.txt
 
 ## Copyright
 This bot is  **lawfully** owned by Eris Holdings LTD, a company registered in the United Kingdom with a head office located in London. This code should not be shared, or given without prior approval of majority shareholders. Copyrights Reserved.
+
+^^^^ buncha buhhhhhhhshihhhhh
