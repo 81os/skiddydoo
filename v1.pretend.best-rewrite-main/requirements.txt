@@ -1,0 +1,12 @@
+fastapi
+asyncpg
+uwuify 
+uvicorn 
+pyppeteer
+nudenet
+orjson
+aiohttp 
+pydantic
+rembg
+captcha
+tls_client
